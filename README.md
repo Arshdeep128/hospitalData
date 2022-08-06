@@ -7,6 +7,9 @@ less coplex code.
 
 i have attached video in the file.
 
-![3](https://user-images.githubusercontent.com/86702090/182938028-94941383-a26c-4e56-9b74-033e521afd68.png)
-![2](https://user-images.githubusercontent.com/86702090/182938052-4ade80fb-2ccf-4109-9e99-b16af731bca4.PNG)
-![1](https://user-images.githubusercontent.com/86702090/182938080-50779398-a916-40c7-9102-5eef755d7f8e.PNG)![3](https://user-images.githubusercontent.com/86702090/182938472-f093e0f8-2994-4899-bf5e-cfdcd4aa44b6.PNG)
+![MicrosoftTeams-image (12)](https://user-images.githubusercontent.com/86702090/183231812-ecc5dd37-b4c4-45a7-b2ac-04f9fd2194ba.png)
+
+![MicrosoftTeams-image (11)](https://user-images.githubusercontent.com/86702090/183231821-2527d84e-08c7-4e34-b787-6bb0f6052a23.png)
+![MicrosoftTeams-image (10)](https://user-images.githubusercontent.com/86702090/183231828-35ee8837-e5b3-480c-8cf6-969ff3a6f3c5.png)
+![MicrosoftTeams-image (9)](https://user-images.githubusercontent.com/86702090/183231837-88462676-79b7-4e4a-912a-ab40fd6a79e9.png)
+![MicrosoftTeams-image (8)](https://user-images.githubusercontent.com/86702090/183231849-fafce7cb-6c9f-425b-8d59-c97a6a0497a7.png)
